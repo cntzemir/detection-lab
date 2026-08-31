@@ -1,7 +1,7 @@
 # 01 — Network Basics
 
 Lab: Windows 11 VM (VMware NAT), Wireshark 4.6.8 on Ethernet0.
-Capture: `dns-tcp-baseline.pcapng` — 338 packets, 31 Aug 2026.
+Capture: 338 packets on Ethernet0, 31 Aug 2026.
 
 ## DNS resolution
 
